@@ -1,7 +1,11 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
+<<<<<<< HEAD
 Alice is not a feminist at all.
 
 However, Alice is not Bob's. It's just his turn!
 
 Adding more text to Alice in branch "master", just after creating the branch "add_patrick".
+=======
+Updating the Dev Environment with remote changes.
+>>>>>>> 81b0f44844006b07e9fb66aed184f55d81d8720d
